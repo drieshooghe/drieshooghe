@@ -24,11 +24,11 @@ I'm Dries Hooghe, a full-stack TypeScript application developer with a great int
 - Amazon Web Services (:star: CDK)
 
 ### Experience :office:
-- [Cheqroom](https://cheqroom.com/): February 2019 - present
-- [Meditech](https://www.meditech-pharma.com): July 2018 - June 2019
-- [DAS Media](https://www.dasmedia.be): August 2017 - June 2018
+- <a href="https://cheqroom.com" target="_blank">Cheqroom</a>: February 2019 - present
+- <a href="https://www.meditech-pharma.com" target="_blank">Meditech</a>: July 2018 - June 2019
+- <a href="https://www.dasmedia.be" target="_blank">DAS Media</a>: August 2017 - June 2018
 
-## Contact me :mailbox:
+### Contact me :mailbox:
 - [GitHub](https://github.com/drieshooghe)
 - [LinkedIn](https://www.linkedin.com/in/drieshooghe)
 - [Email](mailto:dries.hooghe@gmail.com)
