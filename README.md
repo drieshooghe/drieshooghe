@@ -15,13 +15,13 @@ I'm Dries Hooghe, a full-stack TypeScript application developer with a great int
 
 ### Skills :hammer:
 - TypeScript
-- NodeJS (:star: NestJS)
-- GraphQL (:star: Apollo)
+- NodeJS (⭐ NestJS)
+- GraphQL (⭐ Apollo)
 - Docker
 - ReactJS
-- HTML5 & CSS (:star: Tailwind)
-- SQL and noSQL databases (:star: MongoDB)
-- Amazon Web Services (:star: CDK)
+- HTML5 & CSS (⭐ Tailwind)
+- SQL and noSQL databases (⭐ MongoDB)
+- Amazon Web Services (⭐ CDK)
 
 ### Experience :office:
 - <a href="https://cheqroom.com" target="_blank">Cheqroom</a>: February 2019 - present
