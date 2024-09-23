@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me :man:
-I'm Dries Hooghe, a full-stack TypeScript application developer with a great interest in infrastructure and CI/CD.
+I'm Dries Hooghe, a full-stack TypeScript application developer with a great interest in cloud engineering.
 
 - :smile: Pronouns: he/him
 - :house: Waregem, Belgium
