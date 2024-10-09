@@ -1,27 +1,17 @@
 ## Hi there 👋
 
-### About me :man:
-I'm Dries Hooghe, a full-stack TypeScript application developer with a great interest in cloud engineering.
+### About me
+I'm Dries Hooghe, a full-stack TypeScript developer with a strong passion for cloud engineering.
+I created and maintain the [@ocoda/event-sourcing](https://github.com/ocoda/event-sourcing) library.
 
 - :smile: Pronouns: he/him
 - :house: Waregem, Belgium
-- :bicyclist: Cycling fanatic
-- :musical_note: Biggie smalls is the illest!
+- :bicyclist: Sports enthusiast
 
 ### Interests :seedling:
 - Web technologies
 - DDD, CQRS and Event Sourcing
 - Infrastructure as Code
-
-### Skills :hammer:
-- TypeScript
-- NodeJS (⭐ NestJS)
-- GraphQL (⭐ Apollo)
-- Docker
-- ReactJS
-- HTML5 & CSS (⭐ Tailwind)
-- SQL and noSQL databases (⭐ MongoDB)
-- Amazon Web Services (⭐ CDK)
 
 ### Experience :office:
 - <a href="https://cheqroom.com" target="_blank">Cheqroom</a>: February 2019 - present
@@ -31,4 +21,8 @@ I'm Dries Hooghe, a full-stack TypeScript application developer with a great int
 ### Contact me :mailbox:
 - [GitHub](https://github.com/drieshooghe)
 - [LinkedIn](https://www.linkedin.com/in/drieshooghe)
-- [Email](mailto:dries.hooghe@gmail.com)
+- [Email ✉️](mailto:dries.hooghe@gmail.com)
+- [Resume 🌐](https://www.drieshooghe.com)
+
+### Open-source 👐🏻
+Working on open-source projects brings me joy and I aim to contribute as much as possible. If you find my projects helpful, please consider sponsoring me ❤️ Thank you!
